@@ -33,7 +33,4 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friendshipYun)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friendshipYun&hide=contribs,prs&show_icons=true&theme=dark)
-
-  
 </div>
