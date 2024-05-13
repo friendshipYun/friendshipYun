@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=I%20AM%20WOOJUNG%20YUN&stroke=00FF00&fontSize=48&fontColor=d6ace6" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=I%20AM%20WOOJUNG%20YUN&stroke=00FF00&fontSize=48&fontColor=d6ace6" />
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <p align="center">
@@ -32,3 +34,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friendshipYun)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friendshipYun&hide=contribs,prs&show_icons=true&theme=dark)
+
+  
+</div>
